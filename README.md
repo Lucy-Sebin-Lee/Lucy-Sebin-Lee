@@ -10,7 +10,7 @@ Hi, I'm a healthcare data professional passionate about transforming information
 - **B.S. in Health Information Management & Informatics** (Minor: Informatics)  
 - **M.S. in Information Management**  (Specializations: Data Science & Business Intelligence)
 
-💡 I work in **Health Information Management** and specialize in leveraging data to support better healthcare decisions. My mission is to combine **kindness, care, and concern** with analytical thinking to drive **positive, community-focused change**.
+💡 I am currently working in **Health Information Management** and specialize in leveraging data to support better healthcare decisions. My mission is to combine **kindness, care, and concern** with analytical thinking to drive **positive, community-focused change**.
 
 ---
 
