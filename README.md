@@ -32,6 +32,10 @@ I work in **Health Information Management** and specialize in leveraging data to
 
 ## 🎓 Certifications
 
+**Lean Six Sigma White Belt**  
+*Six Sigma Online*  
+📅 Issued: May 2026 |
+
 **Certificate in Patient Experience and Pre-Licensed Clinical Care**  
 *UCLA Fielding School of Public Health* 
 📅 Issued: Aug 2019
