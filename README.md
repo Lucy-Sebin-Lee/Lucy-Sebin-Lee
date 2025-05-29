@@ -32,9 +32,9 @@ I work in **Health Information Management** and specialize in leveraging data to
 
 ## 🏅 Digital Badge Collection
 
-✅ PMI Kickoff™ Badge <br>
-
-<img src = "./Digital-Badges/Kickoff-Badge.png" alt = "PMI Kickoff Badge" width = "200"/>
+| **PMI Kickoff™ – Predictive** | **PMI Kickoff™ – Agile** |
+|:-----------------------------:|:-------------------------:|
+| <img src="./Digital-Badges/Kickoff-Predictive-Badge.png" alt="PMI Predictive Badge" width="120"/> | <img src="./Digital-Badges/Kickoff-Agile-Badge.png" alt="PMI Agile Badge" width="120"/> |
 
 ---
 
