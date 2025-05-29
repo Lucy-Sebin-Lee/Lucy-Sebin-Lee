@@ -27,3 +27,10 @@ I work in **Health Information Management** and specialize in leveraging data to
 
 **Design & Web**  
 `Figma` `HTML` `Canva`
+
+---
+
+## 🏅 Digital Badge Collection
+
+✅ PMI Kickoff™ Badge
+![PMI Kickoff Badge](./Digital-Badges/Kickoff-Badge.png)
