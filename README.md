@@ -2,7 +2,7 @@
 
 I'm a data professional passionate about transforming information into meaningful, actionable insights that improve lives. With a strong foundation in **Information Management** and **health Informatics**, I combine technical expertise with a heart for service.
 
----
+&nbsp;
 
 ## 🧬 About Me
 
@@ -12,7 +12,7 @@ I'm a data professional passionate about transforming information into meaningfu
 
 I work in **Health Information Management** and specialize in leveraging data to support better healthcare decisions. My mission is to combine **kindness, care, and concern** with analytical thinking to drive **positive, community-focused change**.
 
----
+&nbsp;
 
 ## 🛠️ Tools & Technologies
 
@@ -28,7 +28,7 @@ I work in **Health Information Management** and specialize in leveraging data to
 **Design & Web**  
 `Figma` `HTML` `Canva`
 
----
+&nbsp;
 
 ## 🏅 Digital Badge Collection
 
@@ -37,7 +37,7 @@ I work in **Health Information Management** and specialize in leveraging data to
 &nbsp;&nbsp;&nbsp;
 <img src="./Digital-Badges/Kickoff-Agile-Badge.png" alt="PMI Agile Badge" width="120"/>
 
----
+&nbsp;
 
 ## 🎓 Certifications
 
