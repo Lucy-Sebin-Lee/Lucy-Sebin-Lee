@@ -10,14 +10,12 @@ I'm a data professional with a passion for transforming information into meaning
 - **B.S. in Health Information Management & Informatics** (Minor: Informatics)  
 - **M.S. in Information Management**  (Specializations: Data Science & Business Intelligence)
 
-I work in **Health Information Management** and specialize in leveraging data to support better healthcare decisions. My mission is to combine **kindness, care, and concern** with analytical thinking to drive **positive, community-focused change**.
-
 &nbsp;
 
 ## 🛠️ Tools & Technologies
 
 **Languages**  
-`Python` `R` `SQL` `SAS` `HTML`
+`Python` `R` `SQL` `HTML`
 
 **Data & BI Tools**  
 `Power BI` `Tableau` `Snowflake` `Azure Data Studio` `REDCap`
