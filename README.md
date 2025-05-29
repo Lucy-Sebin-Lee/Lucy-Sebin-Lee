@@ -33,4 +33,4 @@ I work in **Health Information Management** and specialize in leveraging data to
 ## 🏅 Digital Badge Collection
 
 ✅ PMI Kickoff™ Badge
-![PMI Kickoff Badge](./Digital-Badges/Kickoff-Badge.png)
+<img src = "./Digital-Badges/Kickoff-Badge.png" alt = "PMI Kickoff Badge" width = "200"/>
