@@ -32,14 +32,15 @@ I work in **Health Information Management** and specialize in leveraging data to
 
 ## 🏅 Digital Badge Collection
 
-| **PMI Kickoff™ – Predictive** | **PMI Kickoff™ – Agile** |
-|:-----------------------------:|:-------------------------:|
-| <img src="./Digital-Badges/Kickoff-Predictive-Badge.png" alt="PMI Predictive Badge" width="120"/> | <img src="./Digital-Badges/Kickoff-Agile-Badge.png" alt="PMI Agile Badge" width="120"/> |
+<div>
+<img src="./Digital-Badges/Kickoff-Predictive-Badge.png" alt="PMI Predictive Badge" width="120"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./Digital-Badges/Kickoff-Agile-Badge.png" alt="PMI Agile Badge" width="120"/>
 
 ---
 
 ## 🎓 Certifications
 
-| Certificate | Issuing Organization | Date |
-|-------------|----------------------|------|
-| Certificate in Patient Experience and Pre-Licensed Clinical Care | UCLA Fielding School of Public Health | Aug 2019 |
+**Certificate in Patient Experience and Pre-Licensed Clinical Care**  
+*UCLA Fielding School of Public Health* 
+📅 Issued: Aug 2019
