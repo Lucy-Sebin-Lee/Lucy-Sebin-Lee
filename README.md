@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub!
 
-I'm a data professional passionate about transforming information into meaningful, actionable insights that improve lives. With a strong foundation in **Information Management** and **health Informatics**, I combine technical expertise with a heart for service.
+I'm a data professional with a passion for transforming information into meaningful, actionable insights that drive real-world impact. With a strong foundation in **Information Management** and **Health Informatics**, I hope to leverage data to support informed and effective healthcare decisions. My mission is to combine analytical rigor with empathy and a strong sense of purpose—using data not just to inform, but to improve lives and drive positive, community-focused change.
 
 &nbsp;
 
