@@ -33,7 +33,7 @@ I work in **Health Information Management** and specialize in leveraging data to
 ## 🎓 Certifications
 
 **Lean Six Sigma White Belt**  
-*Six Sigma Online*  
+*Six Sigma Online; Aveta Business Institute*  
 📅 Issued: May 2026
 
 **Patient Experience and Pre-Licensed Clinical Care**  
