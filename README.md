@@ -40,7 +40,14 @@ I work in **Health Information Management** and specialize in leveraging data to
 
 ## 🏅 Digital Badge Collection
 
-<div>
+**PMI Kickoff™ – Predictive**  
+*Project Management Institute*  
+📅 Earned: May 2026  
+<br>
 <img src="./Digital-Badges/Kickoff-Predictive-Badge.png" alt="PMI Predictive Badge" width="120"/>
-&nbsp;&nbsp;&nbsp;
+
+**PMI Kickoff™ – Agile**  
+*Project Management Institute*  
+📅 Earned: May 2026  
+<br>
 <img src="./Digital-Badges/Kickoff-Agile-Badge.png" alt="PMI Agile Badge" width="120"/>
