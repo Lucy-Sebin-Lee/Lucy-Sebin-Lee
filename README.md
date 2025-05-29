@@ -51,7 +51,3 @@ I work in **Health Information Management** and specialize in leveraging data to
 📅 Earned: May 2026  
 <br>
 <img src="./Digital-Badges/Kickoff-Agile-Badge.png" alt="PMI Agile Badge" width="120"/>
-
-**Lean Six Sigma White Belt**  
-*SSDSI (IASSC Accredited)*  
-📅 Earned: May 2026
