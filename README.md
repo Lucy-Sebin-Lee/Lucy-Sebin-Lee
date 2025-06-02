@@ -30,9 +30,13 @@ I'm a data professional with a passion for transforming information into meaning
 
 ## 🎓 Certifications
 
+**Lean Six Sigma Yellow Belt**  
+*Six Sigma Online; Aveta Business Institute*  
+📅 Issued: June 2025
+
 **Lean Six Sigma White Belt**  
 *Six Sigma Online; Aveta Business Institute*  
-📅 Issued: May 2026
+📅 Issued: May 2025
 
 **Patient Experience and Pre-Licensed Clinical Care**  
 *UCLA Fielding School of Public Health*  
@@ -44,12 +48,12 @@ I'm a data professional with a passion for transforming information into meaning
 
 **PMI Kickoff™ – Predictive**  
 *Project Management Institute*  
-📅 Earned: May 2026  
+📅 Earned: May 2025  
 <br>
 <img src="./Digital-Badges/Kickoff-Predictive-Badge.png" alt="PMI Predictive Badge" width="120"/>
 
 **PMI Kickoff™ – Agile**  
 *Project Management Institute*  
-📅 Earned: May 2026  
+📅 Earned: May 2025 
 <br>
 <img src="./Digital-Badges/Kickoff-Agile-Badge.png" alt="PMI Agile Badge" width="120"/>
