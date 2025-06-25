@@ -46,8 +46,4 @@ I'm a data professional with a passion for transforming information into meaning
 
 ## 🏅 Digital Badge Collection
 
-<div>
-  <img src = "./Digital-Badges/Kickoff-Predictive-Badge.png" alt = "PMI Predictive Badge" width = "120" style = "display: inline-block;"/>
-  <img src = "./Digital-Badges/Kickoff-Agile-Badge.png" alt = "PMI Agile Badge" width = "120" style = "display: inline-block;"/>
-  <img src = "./Digital-Badges/2023-SAS-Hackathon-Participant.png" alt = "PMI Agile Badge" width = "120" style = "display: inline-block;"/>
-</div>
+🎓 View all my verified digital badges on [Credly](https://www.credly.com/users/lucy-sebin-lee).
