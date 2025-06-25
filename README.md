@@ -41,3 +41,12 @@ I'm a data professional with a passion for transforming information into meaning
 **Patient Experience and Pre-Licensed Clinical Care**  
 *UCLA Fielding School of Public Health*  
 📅 Issued: Aug 2019
+
+&nbsp;
+
+## 🏅 Digital Badge Collection
+
+<div>
+  <img src = "./Digital-Badges/Kickoff-Predictive-Badge.png" alt = "PMI Predictive Badge" width = "120" style = "display: inline-block;"/>
+  <img src = "./Digital-Badges/Kickoff-Agile-Badge.png" alt = "PMI Agile Badge" width = "120" style = "display: inline-block;"/>
+</div>
