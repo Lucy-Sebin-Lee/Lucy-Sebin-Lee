@@ -30,13 +30,13 @@ I'm a data professional with a passion for transforming information into meaning
 
 ## 🎓 Certifications
 
-**Lean Six Sigma Yellow Belt**  
+**Lean Six Sigma Green Belt**  
 *Six Sigma Online; Aveta Business Institute*  
 📅 Issued: June 2025
 
-**Lean Six Sigma White Belt**  
+**Lean Six Sigma Yellow Belt**  
 *Six Sigma Online; Aveta Business Institute*  
-📅 Issued: May 2025
+📅 Issued: June 2025
 
 **Patient Experience and Pre-Licensed Clinical Care**  
 *UCLA Fielding School of Public Health*  
