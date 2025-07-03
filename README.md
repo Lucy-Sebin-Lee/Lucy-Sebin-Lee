@@ -44,6 +44,6 @@ I'm a data professional with a passion for transforming information into meaning
 
 &nbsp;
 
-## 🏅 Digital Badge Collection
+## 🏅 Digital Badges
 
 🎓 View all my verified digital badges on [Credly](https://www.credly.com/users/lucy-sebin-lee).
